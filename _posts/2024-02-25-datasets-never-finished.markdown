@@ -32,3 +32,5 @@ What I hope you'll take away: as soon as you're maintaining an ML model used in 
 --- 
 
 Photo by <a href="https://unsplash.com/@simonkadula">Simon Kadula</a> on <a href="https://unsplash.com/photos/a-pile-of-metal-screws-that-are-stacked-on-top-of-each-other-TnlsqwNhbCA">Unsplash</a>
+
+[LinkedIn Post](https://www.linkedin.com/posts/activity-7167612754638393344--qh9) - if you have comments.
