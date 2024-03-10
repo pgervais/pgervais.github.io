@@ -25,3 +25,4 @@ For a similar point on this topic, I recommend Andy Matuschak's [Effective syste
 
 Photo by <a href="https://unsplash.com/@amayli">Amélie Mourichon</a> on <a href="https://unsplash.com/photos/black-android-smartphone-and-pink-case-h3kEAHMl1k4">Unsplash</a>
   
+[LinkedIn Post](https://www.linkedin.com/posts/activity-7169692930713067520-YRbB) - if you have comments.
