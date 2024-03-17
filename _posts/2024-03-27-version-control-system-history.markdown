@@ -27,3 +27,4 @@ A nice read if you want to learn a bit more about the history of VCS: ["A Survey
 
 Photo by <a href="https://unsplash.com/@synkevych">Roman Synkevych</a> on <a href="https://unsplash.com/photos/black-and-white-penguin-toy-wX2L8L-fGeA">Unsplash</a>
 
+[LinkedIn Post](https://www.linkedin.com/posts/activity-7175182731075559425--RGN) - if you have comments
