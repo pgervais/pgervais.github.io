@@ -26,3 +26,5 @@ I hope this gave you a good summary of how I see data engineering. Doing it well
 ---
 
 Photo by <a href="https://unsplash.com/@crissyjarvis">Crissy Jarvis</a> on <a href="https://unsplash.com/photos/brown-abaca-gdL-UZfnD3I">Unsplash</a>
+
+[LinkedIn Post](https://www.linkedin.com/posts/activity-7172681373344866304-PDPO) - if you have comments.
