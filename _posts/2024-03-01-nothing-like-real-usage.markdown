@@ -21,6 +21,8 @@ My experience tends to show that when we manually test something we unconsciousl
 
 For a similar point on this topic, I recommend Andy Matuschak's [Effective system design requires insights drawn from serious contexts of use](https://notes.andymatuschak.org/z7EQ2nVGus5B1rS9CqT18g6) and the links therein.
 
+Also my own musings on having imperfect information: [A Personal Take on Tech Debt](/eng/tidbits/2024/05/01/on-tech-debt.html).
+
 --- 
 
 Photo by <a href="https://unsplash.com/@amayli">Amélie Mourichon</a> on <a href="https://unsplash.com/photos/black-android-smartphone-and-pink-case-h3kEAHMl1k4">Unsplash</a>
